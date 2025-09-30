@@ -12,10 +12,18 @@ In order to use this extension, you will need:
 - API key from the LiteAPI. You can obtain one by registering for an account with LiteAPI here: https://dashboard.liteapi.travel/documentation/  
   
 # Instructions
+1. Download all the files (including the icon) on the Github link below in the "Try it out" section.
+2. Open Google Chrome.
+3. Type `chrome://extensions`
+4. Turn on "Developer Mode". This enables you to load an extension and test it out.
+5. Press "Load Unpacked" and find the location of where you downloaded the files. Make sure it is a folder that is selected and not a specific file. If you have a zipped file after downloading it from Github, be sure to unzip it first and then select the file.
+6. Once you have pressed "Load Unpacked", you should see the extension in your Extensions area.
+7. You may see the extension in the toolbar. If you don't, you can press "Details" and then press "Pin to toolbar".
+8. Once the extension is shown, you can enter your API key and the two-letter code of the country you want to see together with a given city. The default options are shown above but you can also amend the extension further by amending **content.js**.
+9. The list of hotels should appear within the extension.
 
 # Possible amendments for users
-
-
+You can amend the logo of the extension, although be sure to rename it to "icon.png" unless you change the *manifest.json* file to whatever it is that you are renaming it to. You can also amend the countries covered by amending the content.js file.
 
 # Disclaimer
 * The vibe-coded output referred to these cities as "capitals". This is not strictly correct: the capital city of Australia 🇦🇺 , for example, is Canberra, not Sydney. Sydney is just more well-known. Similarly, the capital city for Canada 🇨🇦  is Ottawa, not Toronto. This is why it is important to always check and review the output of vibe code. Funnily enough, the average person would also make the same mistake here.
