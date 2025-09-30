@@ -7,10 +7,14 @@ The following countries are covered in this extension, together with their capit
 You can easily customise the API to include more countries by adjusting the code in **content.js** file.
 
 # Requirements
+In order to use this extension, you will need:
+- Google Chrome installed. You can download it here: https://www.google.com/intl/en_uk/chrome/ .
+  
+# Instructions
 
 # Possible amendments for users
 
-# Instructions
+
 
 # Disclaimer
 * The vibe-coded output referred to these cities as "capitals". This is not strictly correct: the capital city of Australia 🇦🇺 , for example, is Canberra, not Sydney. Sydney is just more well-known. Similarly, the capital city for Canada 🇨🇦  is Ottawa, not Toronto. This is why it is important to always check and review the output of vibe code. Funnily enough, the average person would also make the same mistake here.
