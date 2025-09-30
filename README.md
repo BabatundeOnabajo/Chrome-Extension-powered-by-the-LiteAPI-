@@ -9,6 +9,7 @@ You can easily customise the API to include more countries by adjusting the code
 # Requirements
 In order to use this extension, you will need:
 - Google Chrome installed. You can download it here: https://www.google.com/intl/en_uk/chrome/ .
+- API key from the LiteAPI. You can obtain one by registering for an account with LiteAPI here: https://dashboard.liteapi.travel/documentation/  
   
 # Instructions
 
