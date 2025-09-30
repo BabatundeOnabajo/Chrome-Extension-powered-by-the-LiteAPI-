@@ -27,5 +27,5 @@ In order to use this extension, you will need:
 ![Screenshot](https://github.com/BabatundeOnabajo/Chrome-Extension-powered-by-the-LiteAPI-/blob/main/Screenshot%202025-09-30%20at%2004.52.38.png)
 ![Screenshot](https://github.com/BabatundeOnabajo/Chrome-Extension-powered-by-the-LiteAPI-/blob/main/Screenshot%202025-09-30%20at%2005.06.33.png)
 ![Screenshot](https://github.com/BabatundeOnabajo/Chrome-Extension-powered-by-the-LiteAPI-/blob/main/Screenshot%202025-09-30%20at%2005.17.42.png)
-![Screenshot]https://github.com/BabatundeOnabajo/Chrome-Extension-powered-by-the-LiteAPI-/blob/main/Screenshot%202025-09-30%20at%2005.21.33.png)
+![Screenshot](https://github.com/BabatundeOnabajo/Chrome-Extension-powered-by-the-LiteAPI-/blob/main/Screenshot%202025-09-30%20at%2005.21.33.png)
 ![Screenshot](https://github.com/BabatundeOnabajo/Chrome-Extension-powered-by-the-LiteAPI-/blob/main/Screenshot%202025-09-30%20at%2006.45.38.png)
