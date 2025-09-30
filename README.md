@@ -5,6 +5,8 @@ This is a Chrome extension that uses the new LiteAPI offered by Nuitee. With the
 
 # Requirements
 
+# Possible amendments for users
+
 # Instructions
 
 # Screenshots
