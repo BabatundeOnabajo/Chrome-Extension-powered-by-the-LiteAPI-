@@ -24,3 +24,6 @@ In order to use this extension, you will need:
 
 # Screenshots
 ![Screenshot](https://github.com/BabatundeOnabajo/Chrome-Extension-powered-by-the-LiteAPI-/blob/main/Screenshot%202025-09-30%20at%2004.52.10.png)
+![Screenshot](https://github.com/BabatundeOnabajo/Chrome-Extension-powered-by-the-LiteAPI-/blob/main/Screenshot%202025-09-30%20at%2004.52.38.png)
+![Screenshot](https://github.com/BabatundeOnabajo/Chrome-Extension-powered-by-the-LiteAPI-/blob/main/Screenshot%202025-09-30%20at%2005.06.33.png)
+![Screenshot](https://github.com/BabatundeOnabajo/Chrome-Extension-powered-by-the-LiteAPI-/blob/main/Screenshot%202025-09-30%20at%2005.17.42.png)
