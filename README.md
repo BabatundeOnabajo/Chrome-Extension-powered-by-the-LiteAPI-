@@ -2,6 +2,9 @@
 This is a Chrome extension that uses the new LiteAPI offered by Nuitee. With the extension, you can search for information relating to hotels around the world from the comfort of your own browser. You can also see a tooltip if you hover over the name of a city or country within the browser.
 
 # Overview
+The following countries are covered in this extension, together with their capital cities in brackets: Great Britain (London) 🇬🇧 , France (Paris) 🇫🇷 , Italy (Rome) 🇮🇹 , Germany (Berlin) 🇩🇪 , Spain (Madrid) 🇪🇸 , The Netherlands (Amsterdam) 🇳🇱 , Austria (Vienna) 🇦🇹 , Czech Republic (Prague) 🇨🇿 , Hungary (Budapest) 🇭🇺 , Japan (Tokyo) 🇯🇵 , United States (Washington) 🇺🇸 (** see disclaimer below), Australia (Sydney) 🇦🇺 , United Arab Emirates (Dubai) 🇦🇪 , Singapore (SIngapore) 🇸🇬 , Hong Kong (Hong Kong) 🇭🇰 , Thailand (Bangkok) 🇹🇭 , India (Delhi) 🇮🇳 , Canada (Toronto) 🇨🇦 .
+
+You can easily customise the API to include more countries by adjusting the code in **content.js** file.
 
 # Requirements
 
